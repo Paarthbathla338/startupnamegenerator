@@ -60,6 +60,7 @@ class _RandomWordsState extends State<RandomWords> {
   Widget build(BuildContext context) {
     return Scaffold(
       body: _buildSuggestions(),
+      
     );
     
 
